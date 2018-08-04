@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './styles.css';
+import { withStyle } from '../../utils/decorators.js';
 
 const Navigation = ({ items, ...props }) => (
   <nav { ...props }>

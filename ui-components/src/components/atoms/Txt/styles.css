@@ -1,9 +1,6 @@
-@import "../../properties.css";
-
-.default { color: var(--color-text); }
-.info { color: var(--color-info); }
-.warning { color: var(--color-warning); }
-.link { color: var(--color-link); }
-.s { font-size: var(--font-size-s); }
-.m { font-size: var(--font-size-m); }
-.l { font-size: var(--font-size-l); }
+.default { color: #000; }
+.info { color: #8C8C8C; }
+.warning { color: #f0163a; }
+.s { font-size: .8rem; }
+.m { font-size: 1rem; }
+.l { font-size: 1.2rem; }

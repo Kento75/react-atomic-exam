@@ -10,3 +10,4 @@ export default Txt;
 
 export const InfoTxt = txtFactory('info');
 export const WarningTxt = txtFactory('warning');
+export const LinkTxt = txtFactory('link');
